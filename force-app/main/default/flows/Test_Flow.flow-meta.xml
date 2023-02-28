@@ -30,7 +30,7 @@
         <locationY>158</locationY>
         <allowBack>true</allowBack>
         <allowFinish>true</allowFinish>
-        <allowPause>true</allowPause>
+        <allowPause>false</allowPause>
         <showFooter>true</showFooter>
         <showHeader>true</showHeader>
     </screens>
